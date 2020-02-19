@@ -1,4 +1,4 @@
-FROM eventstore/eventstore:release-5.0.1
+FROM eventstore/eventstore:release-5.0.5
 
 ENV EVENTSTORE_CLUSTER_GOSSIP_PORT=3133
 
